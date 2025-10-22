@@ -1,28 +1,29 @@
-name: Generate Contribution Snake
+name: Generate Cyberpunk Contribution Snake 🐍
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:         # Allow manual trigger
+    - cron: "0 */12 * * *"   # Runs every 12 hours
+  workflow_dispatch:          # Allow manual trigger from the Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Check out your repository
+      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2️⃣ Generate the snake animation
+      # 2️⃣ Generate cyberpunk snake
       - name: Generate Snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: DemmyJay-99
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=neon&color_snake=#FF00FF&color_dots=#00FFFF,#39FF14,#FF00FF&color_bg=#000010
+            dist/github-snake-dark.svg?palette=neon&color_snake=#FF00FF&color_dots=#00FFFF,#39FF14,#FF00FF&color_bg=#000010
+            dist/github-snake.gif?palette=neon&color_snake=#FF00FF&color_dots=#00FFFF,#39FF14,#FF00FF&color_bg=#000010&speed=2
 
-      # 3️⃣ Push the generated files to the output branch
+      # 3️⃣ Push generated files to 'output' branch
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
