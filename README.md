@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Mellow and I'm a **Web Developer** passionate about building clean, user-friendly web applications.  
-I specialize in **React**, **Node.js**, and **TypeScript**, and I love turning ideas into digital experiences.</h2>
+<h2 align="left">Hi 👋! My name is Mellow and I'm a *Web Developer* passionate about building clean, user-friendly web applications.  
+I specialize in *React*, *Node.js*, and *TypeScript*, and I love turning ideas into digital experiences.</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
