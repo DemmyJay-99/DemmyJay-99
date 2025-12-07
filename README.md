@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **demmyjyd@gmail.com**
 
-- 📄 Know about my experiences [https://mellow-portfolio.vercel.app/](https://mellow-portfolio.vercel.app/)
+- 📄 Know about my experiences [My portfolio]([https://mellow-portfolio.vercel.app/](https://my-portfolio-eight-lemon-32.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
