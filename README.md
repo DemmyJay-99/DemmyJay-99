@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Javascript, React, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://mellow-portfolio.vercel.app/](https://mellow-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mellow-portfolio.vercel.app/)
 
 - 📫 How to reach me **demmyjyd@gmail.com**
 
-- 📄 Know about my experiences [My portfolio]([https://mellow-portfolio.vercel.app/](https://my-portfolio-eight-lemon-32.vercel.app/))
+- 📄 Know about my experiences [Here](https://my-portfolio-eight-lemon-32.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
