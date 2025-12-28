@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mellow</h1>
 <h3 align="center">A passionate web developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [wa-bot](https://github.com/DemmyJay-99/wa-bot)
+- 🔭 I’m currently working on [GadgetVault](https://github.com/DemmyJay-99/GadgetVault)
 
 - 🌱 I’m currently learning **Javascript, React, Node.js, MongoDB**
 
