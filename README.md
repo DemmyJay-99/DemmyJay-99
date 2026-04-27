@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mellow</h1>
 <h3 align="center">A full-stack web developer</h3>
 
-- 🔭 I’m currently working on **Mellow-MD**
+- 🔭 I’m currently working on **[Mellow-MD](https://github.com/DemmyJay-99/Mellow-MD)**
 
 - 🌱 I’m currently learning **Javascript, React, Node.js, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-eight-lemon-32.vercel.app/](https://my-portfolio-eight-lemon-32.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-eight-lemon-32.vercel.app/)
 
 - 📫 How to reach me **demmyjyd@gmail.com**
 
