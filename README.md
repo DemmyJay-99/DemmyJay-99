@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, Node.js, MongoDB**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-eight-lemon-32.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mero.zone.id)
 
 - 📫 How to reach me **demmyjyd@gmail.com**
 
