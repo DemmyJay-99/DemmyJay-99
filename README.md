@@ -2,7 +2,7 @@
 
 ### A full stack web developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DemmyJay-99" alt="DemmyJay-99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DemmyJay-99" alt="" /></a> </p>
 
 - 🔭 I'm currently working on **[Mellow MD](https://github.com/DemmyJay-99/Mellow-MD)**
 
