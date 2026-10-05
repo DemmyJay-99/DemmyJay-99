@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DemmyJay-99&hide_border=true&show_icons=true&locale=en&theme=dark" alt="" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DemmyJay-99&theme=dark&hide_border=true&timezone=%2B1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DemmyJay-99&theme=dark&hide_border=true)](https://git.io/streak-stats)
