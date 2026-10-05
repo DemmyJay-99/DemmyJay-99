@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mellow
+# Hi, I'm Mellow
 
 ### A full stack web developer
 
