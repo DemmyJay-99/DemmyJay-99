@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DemmyJay-99" alt="" /></a> </p>
 
-- 🔭 I'm currently working on **[Mellow MD](https://github.com/DemmyJay-99/Mellow-MD)**
+-  I'm currently working on **[Mellow MD](https://github.com/DemmyJay-99/Mellow-MD)**
 
-- 🌱 I'm currently learning **Typescript**
+-  I'm currently learning **Typescript**
 
-- 📫 How to reach me **demmyjyd@gmail.com**
+-  How to reach me **demmyjyd@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mero..zone.id)**
+-  All of my projects are available at **[My Portfolio](https://mero..zone.id)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
